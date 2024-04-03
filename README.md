@@ -1,3 +1,3 @@
 # NamanFlying
-look into master 
-Flying Character demo for Naman
+look into master branch
+, thank you
